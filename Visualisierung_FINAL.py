@@ -1,5 +1,5 @@
 """FINALER CODE ZUR VISUALISIERUNG (1. Version war bloß eine "Notlösung")
-Dieser Code ist inspiriert von Code von: https://dash.plotly.com/basic-callbacks."""
+Dieser Code ist in Teilen inspiriert von Code von: https://dash.plotly.com/basic-callbacks."""
 
 import pandas as pd
 import sqlite3
