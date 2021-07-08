@@ -1,3 +1,5 @@
+#Bloß eine Notlösung. Richtige Visualisierung unter Visualisierung_FINAL
+
 import pandas as pd
 import sqlite3
 from pandas import DataFrame
